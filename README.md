@@ -1,6 +1,11 @@
 # array-update-operation-in-mongodb
 ### Assignment: 5455
 Array operations in mongo DB
+Question :~
+- create a collection of posts
+- it should have title, comments, author details, tags
+- comments should be an array of objects with, body, author of the comment etc., comment id
+- tags should be array of strings
 
 PART : 1
 1. push a new tag into a post
